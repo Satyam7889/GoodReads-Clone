@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import './App.css'
-import Home from 'Pages/Home.jsx'
+import MainRoutes from 'Routes/MainRoutes'
 
 function App() {
 
   return (
-    <Home />
+    <MainRoutes />
   )
 }
 
