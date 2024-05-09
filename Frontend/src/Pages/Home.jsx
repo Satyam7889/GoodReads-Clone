@@ -21,14 +21,14 @@ function Home() {
 
             <div className=' mr-20'>
               <Link to="/register">
-                <button className='btn btn-primary rounded-md px-3 py-1 text-2xl px-5 py-2'>
-                  REGISTER
-                </button>
+              <button className='btn btn-primary rounded-md px-3 py-1 text-2xl px-5 py-2'>
+                REGISTER
+              </button>
               </Link>
               <Link to="/login">
-                <button className='btn btn-warning mx-3 rounded-md px-3 py-1 text-2xl px-5 py-2'>
-                  LOGIN
-                </button>
+              <button className='btn btn-warning mx-3 rounded-md px-3 py-1 text-2xl px-5 py-2'>
+              LOGIN
+              </button>
               </Link>
             </div>
 
